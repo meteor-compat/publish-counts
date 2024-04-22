@@ -1,5 +1,7 @@
 # Publish Counts
 
+> This is a fork of [percolatestudio/publish-counts](https://github.com/percolatestudio/publish-counts) only for keeping it compatible with Meteor 3. 
+
 A package to help you publish the count of a cursor, in real time.
 
 Publish-counts is designed for counting a small number of documents around an
@@ -37,7 +39,7 @@ This version is only compatible with [Meteor 3.0](https://github.com/meteor/mete
 ## Installation
 
 ``` sh
-$ meteor add tmeasday:publish-counts
+$ meteor add compat:publish-counts
 ```
 
 ## API
